@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>tryscript</title>
+
+<style>
+    body {
+        background-image:url(https://wallpaper.dog/large/20537530.jpg); 
+        background-attachment:fixed;}
+
+    .tab  {
+        grid-template-columns: 30%;
+        grid-template-rows: 30%;
+        grid-template-areas: 
+        'a w'
+        'a w'
+        'a p'
+        ;
+        border:4px black;
+    }
+    
+</style>
+</head>
+<body>
+    <h1>WITAMY</h1>
+    <div class="tab">
+        <div><img src="https://images.pexels.com/photos/1526713/pexels-photo-1526713.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"></div>
+
+
+    </div>
+</body>
+</html>
